@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+A respository is initailized with 0 commits. The reason we need this is to keep track of the commits that are
+done to the respository.
