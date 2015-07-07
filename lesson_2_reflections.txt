@@ -15,3 +15,6 @@ What are some situations when branches would be helpful in keeping your history 
 one situation where branches are helpful is when you want to change the head of the commits but leave the rest of
 the commit history alone. for example making a fix for the head, trying out an experimental feature,making a mode 
 where a game is easier to play or changing the head so that it is in a different language like italian.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams help me to visualize the branch structure by being able to see how the branch structure is set up.
