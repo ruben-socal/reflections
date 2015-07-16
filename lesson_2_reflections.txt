@@ -18,3 +18,6 @@ where a game is easier to play or changing the head so that it is in a different
 
 How do the diagrams help you visualize the branch structure?
 The diagrams help me to visualize the branch structure by being able to see how the branch structure is set up.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of branches being merged is that only files that are common on both branches and new files are added to the new branch. The merge creates a new Head, that is the reason the diagram is displayed the way it is.
