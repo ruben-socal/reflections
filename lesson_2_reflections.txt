@@ -20,4 +20,7 @@ How do the diagrams help you visualize the branch structure?
 The diagrams help me to visualize the branch structure by being able to see how the branch structure is set up.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-The result of branches being merged is that only files that are common on both branches and new files are added to the new branch. The merge creates a new Head, that is the reason the diagram is displayed the way it is.
+The result of two branches being merged is that only files that are common on both branches and new files are added to the new branch. The merge creates a new Head, that is the reason the diagram is displayed the way it is.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros about automatic vs manual merging is that automatic merging is quick and automatically documented so that you only save the documentation once its created. The cons of automatic vs manual merging is that conflicks can occur on occation which will not allow the merge to complete, when that happens manual merging needs to be done to resolve the conflick in the files being merged.
