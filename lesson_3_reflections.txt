@@ -14,8 +14,7 @@ use one instead of another?
 
     cloning only happens from the the github server to local computer. when a 
     branch is push on to github respoitory, commits that are connected to the 
-    branch will also be sent. A fork is a copy of a repository. Forking a repository 
-    allows you to freely experiment with changes without affecting the original project.
+    branch will also be sent. A fork is a copy of a repository from one github account to         another github account. Forking a repository allows you to freely experiment with changes       without affecting the original respoistory.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
