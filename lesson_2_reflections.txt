@@ -1,12 +1,11 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 A respository is initailized with 0 commits. The reason we need this is to keep track of the commits that are
 done to the respository.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is temporary area that holds files that will be committed to the respository, one, some, if not all 
-to the files. The working directory just shows the current files that exist. The value that the staging area offers
-is that it allows the ability to to committ files separately, which in turn makes for coding because it makes it easier
-to identify bugs in the program files. 
+the files. The working directory just shows the current files that exist. The value that the staging area offers
+is that it allows the ability to see what files are going to be commited, a single or multiple files can be staged to be commited at one time. 
 
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area can be used to commit one logical change at a time.

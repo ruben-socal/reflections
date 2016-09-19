@@ -14,10 +14,10 @@ The reason I think that Git alows for multiple files in one to commit is that ch
 For that reason Git allows saving multiple files in one commit. Because GoogleDocs does not have singles files affecting changes in ohter files, GoogleDocs does not require the feature of having save multiple files on one commit.
 
 How can you use the commands git log and git diff to view the history of files?
-Git log and git diff can be used to quickly find typos in files and also revert files to an easrlier state.
+Git log and git diff can be used to quickly find typos and bugs in programs files and quickly revert program files to an easrlier state.
 
 How might using version control make you more confident to make changes that could break something?
 Using version control will give me confidence by knowing that I can quickly recover from mistakes and typo errors and focus more on problem solving and creativity.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-I want to start working on javascript programs.
+I want to start working on building responsive webpages with git. This will allow me to experiment with my creative side without worrying about making mistakes and have more freedom to build bolder web development projects.
