@@ -47,3 +47,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
     I would collaborate using the cloud or an ftpsite. The easier part would be making changes to the
     files, the hard part would be keeping track of the changes and being able to reverse any mistakes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    A time to make changes to a branch rather then the master is when you are trying out new code changes to see if they work, running untested code on the master is never a good idea because it can be broken. The benefits of using a branch is that you do no have to worry about making mistakes when writing code. The benefits of writing code to the master is that you get to see you results up and running right away.
